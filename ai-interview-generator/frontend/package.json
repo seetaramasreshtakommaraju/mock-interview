@@ -1,0 +1,27 @@
+{
+    "name": "interview-generator-frontend",
+    "version": "1.0.0",
+    "description": "AI-powered mock interview generator frontend",
+    "type": "module",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "next": "^14.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "axios": "^1.6.2",
+        "zustand": "^4.4.1",
+        "framer-motion": "^10.16.4",
+        "react-icons": "^4.12.0",
+        "recharts": "^2.10.2"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.3.0",
+        "postcss": "^8.4.31",
+        "autoprefixer": "^10.4.16",
+        "typescript": "^5.2.2"
+    }
+}
